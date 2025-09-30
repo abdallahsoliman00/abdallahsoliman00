@@ -10,8 +10,8 @@
 - C/C++
 - Python
 - LaTex
-&nbsp;  
-- Raspberry Pi, PCB design
+- Raspberry Pi
+- PCB design
 - Manim (maths visualisation)
 - Numerical Methods
 - Signal Processing
