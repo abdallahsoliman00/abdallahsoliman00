@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=abdallahsoliman00&style=pixel)
 ## 👀 Overview
 - Mechatronic Engineering graduate from the University of Southampton.
 - Passionate about applied engineering, mathematics, and programming.
